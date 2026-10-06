@@ -383,24 +383,28 @@ flowchart TD
 
 ### Progress Tracker
 
-- [ ] Phase 1: Literature Survey & Problem Definition
-- [ ] Phase 2: Requirement Analysis & SRS
-- [ ] Phase 3: System Architecture & Design
-- [ ] Phase 4: Environment & Tooling Setup
-- [ ] Phase 5: Dataset Acquisition & Study
-- [ ] Phase 6: Frame Extraction, Faces & Landmarks
-- [ ] Phase 7: Manifests, Splits & Augmentation
-- [ ] Phase 8: Baseline Model & Training Framework
-- [ ] Phase 9: EfficientNet-B4 Transfer Learning
-- [ ] Phase 10: Hyperparameter Tuning & Evaluation
-- [ ] Phase 11: Grad-CAM Explainability
-- [ ] Phase 12: Landmark Analysis (MediaPipe)
-- [ ] Phase 13: Video-Level Aggregation
-- [ ] Phase 14: Inference Pipeline Integration
-- [ ] Phase 15: Web Application (Streamlit)
-- [ ] Phase 16: PDF Report Generation
-- [ ] Phase 17: Testing, Robustness & Optimisation
-- [ ] Phase 18: Documentation, Deployment & Final Submission
+
+| Phase | Status |
+|---|---|
+| Phase 1 — Literature Survey & Problem Definition  | ✅ Complete |
+| Phase 2 — Requirement Analysis & SRS | ✅ Complete |
+| Phase 3 — System Architecture & Design | ✅ Complete |
+| Phase 4 — Environment & Tooling Setup | ✅ Complete |
+| Stage 5 — Dataset Acquisition & Study | ✅ Approved |
+| Phase 5 — ML Engine | ✅ Complete |
+| Phase 6 — Frame Extraction, Faces & Landmarks| ✅ Complete |
+| Phase 7 — Manifests, Splits & Augmentation| ✅ Complete |
+| Phase 8 — Baseline Model & Training Framework| ✅ Complete |
+| Phase 9 — EfficientNet-B4 Transfer Learning| ⏳ Planned |
+| Phase 10 — Hyperparameter Tuning & Evaluation| ⏳ Planned |
+| Phase 11 — Grad-CAM Explainability| ⏳ Planned |
+| Phase 12 —  Landmark Analysis (MediaPipe) | ⏳ Planned |
+| Phase 13 — Video-Level Aggregation | ⏳ Planned |
+| Phase 14 — Inference Pipeline Integration | ⏳ Planned |
+| Phase 15 — Web Application (Streamlit) | ⏳ Planned |
+| Phase 16 — PDF Report Generation | ⏳ Planned |
+| Phase 17 — Testing, Robustness & Optimisation | ⏳ Planned |
+| Phase 18 — Documentation, Deployment & Final Submission| ⏳ Planned |
 
 ---
 
