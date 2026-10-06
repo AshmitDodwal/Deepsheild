@@ -360,26 +360,26 @@ flowchart TD
 
 ### Phase Summary
 
-| # | Phase | Stage | Key Output | Lead |
+| # | Phase | Stage | Key Output |
 |---|---|---|---|---|
-| 1 | Literature Survey & Problem Definition | Foundation | Literature review | All |
-| 2 | Requirement Analysis & SRS | Foundation | SRS and target metrics | All |
-| 3 | System Architecture & Design | Foundation | Design diagrams | All |
-| 4 | Environment & Tooling Setup | Foundation | Repo, Docker, environment | All |
-| 5 | Dataset Acquisition & Study | Data | Raw datasets and EDA | All |
-| 6 | Frame Extraction, Faces & Landmarks | Data | Face crops | All |
-| 7 | Manifests, Splits & Augmentation | Data | Training-ready dataset | All |
-| 8 | Baseline & Training Framework | Model | Baseline and pipeline | All |
-| 9 | EfficientNet-B4 Transfer Learning | Model | Fine-tuned model | All |
-| 10 | Tuning & Evaluation | Model | Metrics report | All |
-| 11 | Grad-CAM Explainability | Intelligence | Heatmap module | All |
-| 12 | Landmark Analysis (MediaPipe) | Intelligence | Landmark module | All |
-| 13 | Video-Level Aggregation | Intelligence | Video predictor | All |
-| 14 | Inference Pipeline Integration | Application | Unified `predict()` | All |
-| 15 | Web Application | Application | Streamlit app | All |
-| 16 | PDF Report Generation | Application | Report generator | All |
-| 17 | Testing & Optimisation | Release | Test results | All |
-| 18 | Documentation, Deployment & Submission | Release | Final deliverables | All |
+| 1 | Literature Survey & Problem Definition | Foundation | Literature review |
+| 2 | Requirement Analysis & SRS | Foundation | SRS and target metrics |
+| 3 | System Architecture & Design | Foundation | Design diagrams |
+| 4 | Environment & Tooling Setup | Foundation | Repo, Docker, environment |
+| 5 | Dataset Acquisition & Study | Data | Raw datasets and EDA |
+| 6 | Frame Extraction, Faces & Landmarks | Data | Face crops |
+| 7 | Manifests, Splits & Augmentation | Data | Training-ready dataset |
+| 8 | Baseline & Training Framework | Model | Baseline and pipeline |
+| 9 | EfficientNet-B4 Transfer Learning | Model | Fine-tuned model |
+| 10 | Tuning & Evaluation | Model | Metrics report |
+| 11 | Grad-CAM Explainability | Intelligence | Heatmap module |
+| 12 | Landmark Analysis (MediaPipe) | Intelligence | Landmark module |
+| 13 | Video-Level Aggregation | Intelligence | Video predictor |
+| 14 | Inference Pipeline Integration | Application | Unified `predict()` |
+| 15 | Web Application | Application | Streamlit app |
+| 16 | PDF Report Generation | Application | Report generator |
+| 17 | Testing & Optimisation | Release | Test results |
+| 18 | Documentation, Deployment & Submission | Release | Final deliverables |
 
 ### Progress Tracker
 
