@@ -363,21 +363,21 @@ flowchart TD
 | # | Phase | Stage | Key Output | Lead |
 |---|---|---|---|---|
 | 1 | Literature Survey & Problem Definition | Foundation | Literature review | All |
-| 2 | Requirement Analysis & SRS | Foundation | SRS and target metrics | Chinmay |
+| 2 | Requirement Analysis & SRS | Foundation | SRS and target metrics | All |
 | 3 | System Architecture & Design | Foundation | Design diagrams | All |
-| 4 | Environment & Tooling Setup | Foundation | Repo, Docker, environment | Chinmay |
-| 5 | Dataset Acquisition & Study | Data | Raw datasets and EDA | Ashmit |
-| 6 | Frame Extraction, Faces & Landmarks | Data | Face crops | Ashmit |
-| 7 | Manifests, Splits & Augmentation | Data | Training-ready dataset | Ashmit |
-| 8 | Baseline & Training Framework | Model | Baseline and pipeline | Hardik |
-| 9 | EfficientNet-B4 Transfer Learning | Model | Fine-tuned model | Hardik |
-| 10 | Tuning & Evaluation | Model | Metrics report | Hardik |
-| 11 | Grad-CAM Explainability | Intelligence | Heatmap module | Shivanshu |
-| 12 | Landmark Analysis (MediaPipe) | Intelligence | Landmark module | Shivanshu |
-| 13 | Video-Level Aggregation | Intelligence | Video predictor | Shivanshu |
-| 14 | Inference Pipeline Integration | Application | Unified `predict()` | Hardik + Shivanshu |
-| 15 | Web Application | Application | Streamlit app | Chinmay |
-| 16 | PDF Report Generation | Application | Report generator | Chinmay |
+| 4 | Environment & Tooling Setup | Foundation | Repo, Docker, environment | All |
+| 5 | Dataset Acquisition & Study | Data | Raw datasets and EDA | All |
+| 6 | Frame Extraction, Faces & Landmarks | Data | Face crops | All |
+| 7 | Manifests, Splits & Augmentation | Data | Training-ready dataset | All |
+| 8 | Baseline & Training Framework | Model | Baseline and pipeline | All |
+| 9 | EfficientNet-B4 Transfer Learning | Model | Fine-tuned model | All |
+| 10 | Tuning & Evaluation | Model | Metrics report | All |
+| 11 | Grad-CAM Explainability | Intelligence | Heatmap module | All |
+| 12 | Landmark Analysis (MediaPipe) | Intelligence | Landmark module | All |
+| 13 | Video-Level Aggregation | Intelligence | Video predictor | All |
+| 14 | Inference Pipeline Integration | Application | Unified `predict()` | All |
+| 15 | Web Application | Application | Streamlit app | All |
+| 16 | PDF Report Generation | Application | Report generator | All |
 | 17 | Testing & Optimisation | Release | Test results | All |
 | 18 | Documentation, Deployment & Submission | Release | Final deliverables | All |
 
