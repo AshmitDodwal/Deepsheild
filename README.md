@@ -390,11 +390,11 @@ flowchart TD
 | Phase 2 — Requirement Analysis & SRS | ✅ Complete |
 | Phase 3 — System Architecture & Design | ✅ Complete |
 | Phase 4 — Environment & Tooling Setup | ✅ Complete |
-| Stage 5 — Dataset Acquisition & Study | ✅ Approved |
-| Phase 5 — ML Engine | ✅ Complete |
-| Phase 6 — Frame Extraction, Faces & Landmarks| ✅ Complete |
-| Phase 7 — Manifests, Splits & Augmentation| ✅ Complete |
-| Phase 8 — Baseline Model & Training Framework| ✅ Complete |
+| Stage 5 — Dataset Acquisition & Study | ⏳ Planned |
+| Phase 5 — ML Engine | ⏳ Planned |
+| Phase 6 — Frame Extraction, Faces & Landmarks| ⏳ Planned |
+| Phase 7 — Manifests, Splits & Augmentation| ⏳ Planned |
+| Phase 8 — Baseline Model & Training Framework| ⏳ Planned |
 | Phase 9 — EfficientNet-B4 Transfer Learning| ⏳ Planned |
 | Phase 10 — Hyperparameter Tuning & Evaluation| ⏳ Planned |
 | Phase 11 — Grad-CAM Explainability| ⏳ Planned |
