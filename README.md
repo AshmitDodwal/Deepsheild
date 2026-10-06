@@ -2,7 +2,7 @@
 
 > An explainable deepfake detector for images and videos. It classifies media as **Real** or **Fake**, reports a **confidence score**, highlights the **suspicious regions** behind its decision, and exports a **PDF forensic report**.
 
-**Capstone / Major Project** | B.Tech CSE (AIML / Data Science) | School of Computer Science, University of Petroleum & Energy Studies (UPES), Dehradun
+**Major Project** | B.Tech CSE (AIML / Data Science) | School of Computer Science, University of Petroleum & Energy Studies (UPES), Dehradun
 **Mentor:** Dr. Ankush Gaur
 
 | Team Member | Specialization | Primary Focus |
